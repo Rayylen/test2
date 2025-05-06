@@ -1,0 +1,21 @@
+
+body {
+    background-color: #1e001e;
+    color: #ff4c8b;
+    font-family: 'Orbitron', sans-serif;
+    padding: 20px;
+}
+h1, h2 {
+    color: #e600ff;
+}
+a {
+    color: #ff4c8b;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    width: 300px;
+    margin-top: 20px;
+}
